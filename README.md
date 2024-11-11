@@ -1,14 +1,29 @@
-💫 Acerca de mí:
-💻¡Hola! Soy Lautaro, tengo 25 años, soy desarrollador web Frontend en constante búsqueda de oportunidades para crecer y mejorar mi perfil profesional. Con una sólida formación en desarrollo fullstack en Henry y cursos externos realizados previamente, he adquirido habilidades en HTML5, CSS3, NextJS, React Vite, React Native, SQL, Express y más. Mi enfoque principal en este momento es consolidar mis habilidades como desarrollador frontend y contribuir de manera efectiva a proyectos web.💻
+Aquí tienes una versión mejorada y más fluida de tu "Acerca de mí" para que suene más profesional y atractiva:
 
-🔭Actualmente, estoy enfocado en ampliar mis conocimientos y experiencia como desarrollador frontend, y estoy interesado en oportunidades para realizar prácticas como Desarrollador Jr en proyectos web. Me apasiona aprender y enseñar, y estoy comprometido a crecer profesionalmente junto con una empresa y mis compañeros de trabajo.🔭
+💫 Acerca de mí
+¡Hola! Soy Lautaro, un desarrollador web Frontend de 25 años con una pasión constante por aprender y mejorar. Mi formación en desarrollo fullstack en Henry, junto con diversos cursos externos, me ha permitido adquirir una sólida base en tecnologías como HTML5, CSS3, NextJS, React, React Native, SQL, Express y más. Mi enfoque actual está en perfeccionar mis habilidades como desarrollador frontend, contribuyendo de manera efectiva a proyectos web innovadores. 💻
 
-✨Estoy emocionado de explorar nuevas oportunidades y contribuir de manera significativa al éxito de los proyectos en los que me involucre. ¡Espero tener la oportunidad de trabajar juntos!✨
+🔭 Mi objetivo profesional
+En este momento, estoy enfocado en seguir ampliando mis conocimientos y experiencia como desarrollador frontend. Busco activamente oportunidades para trabajar como Desarrollador Junior en proyectos web desafiantes, donde pueda aprender, crecer y aportar mis habilidades. Me apasiona tanto aprender como compartir conocimientos, y estoy comprometido con el crecimiento profesional tanto mío como el de mis compañeros de equipo. 🔭
 
-📫 Donde contactarme lauolmos@outlook.es y mis redes sociales
+✨ Explorando nuevas oportunidades
+Estoy emocionado de encontrar nuevas oportunidades que me permitan contribuir significativamente al éxito de los proyectos en los que participe. ¡Espero poder colaborar contigo y formar parte de un equipo de trabajo apasionado y comprometido! ✨
 
-💻 Habilidades:
-HTML5 CSS3 JavaScript React Redux Vite SASS TailwindCSS React Router React Hook Form jQuery MUI Bootstrap Tailwind Express.js Styled Components
+📫 Contactame
+Correo: lauolmos@outlook.es
+Redes Sociales: https://www.linkedin.com/in/lautaroolmos/ | https://www.instagram.com/lauti.olmos/
+
+💻 Habilidades Técnicas
+
+Lenguajes de Programación: JavaScript, TypeScript, HTML, CSS, SQL, PL/SQL
+Frontend: React.js, Redux, Next.js, Angular, Vue.js, React Native, Sass, TailwindCSS, SCSS, Bootstrap, Material UI
+Backend: Node.js, Express.js, Nest.js, JWT
+Bases de Datos: PostgreSQL, MongoDB, MySQL, NoSQL
+Despliegue & Cloud: Cloudinary, Google Cloud Platform (GCP), Google Data Studio, Netlify, Vercel, Render
+Herramientas de Desarrollo: Visual Studio, Git, Postman, Jest, Testing
+Diseño & Productividad: Photoshop, Illustrator, Inkscape, Figma, UX/UI Design, Product Design, Graphic Design
+Análisis y Marketing: Google Ads, Google Analytics, Google Tag Manager, Power BI, BigQuery
+Otras Tecnologías: WebSockets, Adobe Experience Manager (AEM), Mobile Development, Flutter, Data Engineer, Database, Office, Premiere Pro, After Effects, Cinema 4D, Google Cloud Storage, Drupal, UX Research
 
 Firebase Postgres Netlify Render Vercel Google Cloud NodeJS Nodemon MySQL NPM JWT
 
